@@ -27,7 +27,7 @@ I'm a passionate **full-stack developer**, specializing in **web development**, 
 
 
 ---
-
+[Web Portofolio](https://ranseraya.github.io/)
 
 
 [youtube]: https://www.youtube.com/@ranseraya
