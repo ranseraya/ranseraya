@@ -16,7 +16,7 @@ I'm a passionate **full-stack developer**, specializing in **web development**, 
 ### My Top Programming Languages
 ---
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranseraya&layout=compact&theme=react"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranseraya&layout=compact&theme=react&cache_seconds=30"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ranseraya&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 
