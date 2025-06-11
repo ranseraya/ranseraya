@@ -108,7 +108,7 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
   <img align="center" alt="Website" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=white" />
 </a>
 <a href="https://ranseraya.github.io/cybersecurity-web-portfolio-Ayala_V1/" target="_blank">
-  <img align="center" alt="Website Cyber" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=white" />
+  <img align="center" alt="Website" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=green" />
 </a>
 </p>
 
