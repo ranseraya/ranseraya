@@ -63,6 +63,12 @@ I thrive on turning complex problems into elegant code and am always eager to le
 * **Cybersecurity:** Understanding security principles, identifying vulnerabilities, and implementing defensive measures.
 
 ---
+### 🚀 Featured Projects
+
+#### 1. Portfolio Website - Cybersecurity
+* **Repository:** https://github.com/ranseraya/cybersecurity-web-portfolio-Ayala_V1
+* **Live Demo:** https://ranseraya.github.io/cybersecurity-web-portfolio-Ayala_V1/
+
 ---
 
 ### 📊 GitHub Stats & Contributions
@@ -106,9 +112,6 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
 </a>
 <a href="https://ranseraya.github.io/" target="_blank">
   <img align="center" alt="Website" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=white" />
-</a>
-<a href="https://ranseraya.github.io/cybersecurity-web-portfolio-Ayala_V1/" target="_blank">
-  <img align="center" alt="Website" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=green" />
 </a>
 </p>
 
