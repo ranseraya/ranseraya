@@ -63,29 +63,6 @@ I thrive on turning complex problems into elegant code and am always eager to le
 * **Cybersecurity:** Understanding security principles, identifying vulnerabilities, and implementing defensive measures.
 
 ---
-
-### 🚀 Featured Projects
-
-Here are a few projects that highlight my skills and passion:
-
-#### 1. [Nama Proyek 1 - Contoh: E-commerce Modern with Next.js]
-* **Deskripsi:** [Satu atau dua kalimat deskripsi tentang proyek ini, misalnya: "Sebuah platform e-commerce yang responsif dan berkinerja tinggi, dibangun dengan Next.js untuk pengalaman pengguna yang optimal."]
-* **Teknologi Utama:** `Next.js`, `React`, `Redux`, `MySQL`, `GCP Cloud Functions`
-* **Repository:** [Link ke repositori GitHub proyek ini]
-* **Live Demo:** [Link ke live demo proyek ini, jika ada]
-
-#### 2. [Nama Proyek 2 - Contoh: AI-Powered Anomaly Detection System]
-* **Deskripsi:** [Satu atau dua kalimat deskripsi tentang proyek ini, misalnya: "Sistem deteksi anomali berbasis Machine Learning yang mampu mengidentifikasi pola tidak biasa dalam data, di-deploy di GCP."]
-* **Teknologi Utama:** `Python`, `TensorFlow/Keras`, `Flask`, `GCP Compute Engine`
-* **Repository:** [Link ke repositori GitHub proyek ini]
-* **Live Demo:** [Link ke live demo proyek ini, jika ada]
-
-#### 3. [Nama Proyek 3 - Opsional: Project Frontend Khusus]
-* **Deskripsi:** [Satu atau dua kalimat deskripsi tentang proyek ini, fokus pada aspek frontend yang kamu kuasai]
-* **Teknologi Utama:** `React`, `Tailwind CSS`, `RESTful API Integration`
-* **Repository:** [Link ke repositori GitHub proyek ini]
-* **Live Demo:** [Link ke live demo proyek ini, jika ada]
-
 ---
 
 ### 📊 GitHub Stats & Contributions
