@@ -66,8 +66,8 @@ I thrive on turning complex problems into elegant code and am always eager to le
 ### 🚀 Featured Projects
 
 #### 1. Portfolio Website - Cybersecurity
-* **Repository:** https://github.com/ranseraya/cybersecurity-web-portfolio-Ayala_V1
-* **Live Demo:** https://ranseraya.github.io/cybersecurity-web-portfolio-Ayala_V1/
+* **Repository:** https://github.com/ranseraya/portfolio-Ayala
+* **Live Demo:** https://ranseraya.github.io/portfolio-Ayala/
 
 ---
 
