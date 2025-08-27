@@ -101,7 +101,7 @@ When I'm not immersed in lines of code, you can find me:
 I'm always open to collaborating on interesting projects, discussing new ideas, or just networking with fellow tech enthusiasts. Feel free to reach out!
 
 <p align="left">
-<a href="https://www.youtube.com/ranseraya" target="_blank">
+<a href="https://www.youtube.com/@ranseraya" target="_blank">
   <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ranseraya" target="_blank">
@@ -110,7 +110,7 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
 <a href="https://www.linkedin.com/in/ranseraya" target="_blank">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="[https://ranseraya.github.io/](https://ranseraya.github.io/portfolio-Ayala/)" target="_blank">
+<a href="https://ranseraya.github.io/portfolio-Ayala/" target="_blank">
   <img align="center" alt="Website" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=white" />
 </a>
 </p>
